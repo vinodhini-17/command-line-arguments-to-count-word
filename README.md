@@ -43,7 +43,8 @@ print("word count in file = ",count)
 ```
 ### OUTPUT:
 
-![Alt text](cammand.png)
+![cammand](https://github.com/vinodhini-17/command-line-arguments-to-count-word/assets/145742741/5deadf94-a1de-4699-a300-8ff72d50818a)
+
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
