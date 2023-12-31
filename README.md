@@ -31,8 +31,8 @@ Run the program to determine the number of words in the file created.
 
 ## PROGRAM:
 ```
-Developed by: Tirupathi Jayadeep
-RegisterNumber: 23004426
+Developed by: vinodhini k
+RegisterNumber: 23013556
 import sys
 count = 0
 with open (sys.argv[1],'r') as f1:
@@ -42,8 +42,9 @@ with open (sys.argv[1],'r') as f1:
 print("word count in file = ",count)
 ```
 ### OUTPUT:
+![image](https://github.com/vinodhini-17/command-line-arguments-to-count-word/assets/145742741/29e57e83-710c-49ee-b497-a734a7772fa5)
 
-![cammand](https://github.com/vinodhini-17/command-line-arguments-to-count-word/assets/145742741/5deadf94-a1de-4699-a300-8ff72d50818a)
+
 
 
 ## RESULT:
